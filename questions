@@ -1,0 +1,7 @@
+what is pointer
+Pointers in C language is a variable that stores/points the address of another variable. A Pointer in C is used to allocate memory dynamically i.e. at run time.
+what is call by reference and call by value 
+The call by reference method of passing arguments to a function copies the address of an argument into the formal parameter. ... It means the changes made to the parameter affect the passed argument. To pass a value by reference, argument pointers are passed to the functions just like any other value
+what is f 
+what int*
+what is the function of return
